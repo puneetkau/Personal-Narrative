@@ -1,4 +1,4 @@
-# Personal-Narrative
+v bv v\\\ # Personal-Narrative
 # Unit 4 - Personal Narrative
 
 ## Introduction
@@ -18,27 +18,16 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
-![UML Diagram for my project](nameOfImageFileHere.png)
+https://docs.google.com/drawings/d/1bvkvEzFLhqMooMvNj_oxZUwl_YW4yXTvugOD_-iSh8E/edit?usp=sharing 
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
 
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
 
 ## Story Description
 
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
-
-My animation
+My animation shows my favorite 4 artists and some of their album covers. The 2D arrays hold the artist names and the artist images, which I later connect in my story s that the right album corresponds to the right name location wise.
 
 ## Image Filter Analysis
 
-Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+I used a method called coolTone, which essentially modified the pixels based on how dark they were. It made the darkest parts dark blue, the middle ground a medium blue, and the lighter parts light blue. Similarly, my purpleTint method found the darkest parts of the album cover and bumped up the red and blue to make purple.
